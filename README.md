@@ -13,6 +13,7 @@ I know languages like:
 - c++
 
 Also, I can be too much of a perfectionist. Glad to meet you ✨
+
 ![ItNeedsToBePerfectSaturdayNightLiveGIF](https://github.com/user-attachments/assets/82d38a27-8929-4e6e-ac7a-463c5ea3d275)
 
 <!---
