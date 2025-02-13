@@ -23,3 +23,5 @@ Also, I can be too much of a perfectionist. Glad to meet you ✨
 XZERON0/XZERON0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Other
+And if you see my activity is so low, its because i have a private rep 🫣
