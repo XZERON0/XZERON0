@@ -5,14 +5,15 @@ I'm a full stack developer, though I'm more of a front end developer. I'm most i
 
 ### Languages and Skill Levels
 
-<div align="center" >
-    <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square" alt="Python">
-    <img src="https://img.shields.io/badge/C%23-Basic-green?style=flat-square" alt="C#">
-    <img src="https://img.shields.io/badge/Dart-Advanced-yellow?style=flat-square" alt="Dart">
-    <img src="https://img.shields.io/badge/Java-Advanced-yellow?style=flat-square" alt="Java">
-    <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square" alt="JavaScript">
-    <img src="https://img.shields.io/badge/C++-Beginning-white?style=flat-square" alt="C++">
+<div style="padding: 10px; border: 2px solid black; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square" alt="Python">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/C%23-Basic-green?style=flat-square" alt="C#">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Dart-Advanced-yellow?style=flat-square" alt="Dart">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Java-Advanced-yellow?style=flat-square" alt="Java">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square" alt="JavaScript">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/C++-Beginning-white?style=flat-square" alt="C++">
 </div>
+
 Also, I can be too much of a perfectionist. Glad to meet you ✨
 
 <p align="center">
