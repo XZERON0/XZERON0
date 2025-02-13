@@ -26,3 +26,8 @@ You can click the Preview link to take a look at your changes.
 
 ### Other
 And if you see my activity is so low, its because i have a private rep 🫣
+<p align="center">
+<img src="https://github.com/user-attachments/assets/1c99403f-fd31-4153-9671-e296b1fc64fd" width="250" height="250"/>
+<img src="https://github.com/user-attachments/assets/a391b11b-7274-4c6a-ab15-d7d2612671ba" width="250" height="250"/>
+</p>
+
