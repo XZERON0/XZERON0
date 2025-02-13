@@ -5,13 +5,14 @@ I'm a full stack developer, though I'm more of a front end developer. I'm most i
 
 ### Languages and Skill Levels
 
-![Python](https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square)
-![C#](https://img.shields.io/badge/C%23-Basic-green?style=flat-square)
-![Dart](https://img.shields.io/badge/Dart-Advanced-yellow?style=flat-square)
-![Java](https://img.shields.io/badge/Java-Advanced-yellow?style=flat-square)
-![JavaScript](https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square)
-![C++](https://img.shields.io/badge/C++-Beginning-white?style=flat-square)
-
+<div align="center" >
+    <img src="https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square" alt="Python">
+    <img src="https://img.shields.io/badge/C%23-Basic-green?style=flat-square" alt="C#">
+    <img src="https://img.shields.io/badge/Dart-Advanced-yellow?style=flat-square" alt="Dart">
+    <img src="https://img.shields.io/badge/Java-Advanced-yellow?style=flat-square" alt="Java">
+    <img src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square" alt="JavaScript">
+    <img src="https://img.shields.io/badge/C++-Beginning-white?style=flat-square" alt="C++">
+</div>
 Also, I can be too much of a perfectionist. Glad to meet you ✨
 
 <p align="center">
@@ -30,4 +31,3 @@ _And if you see my activity is so low, its because i have a private rep 🫣_
 <img src="https://github.com/user-attachments/assets/1c99403f-fd31-4153-9671-e296b1fc64fd" width="250" height="250"/>
 <img src="https://github.com/user-attachments/assets/a391b11b-7274-4c6a-ab15-d7d2612671ba" width="250" height="250"/>
 </p>
-
