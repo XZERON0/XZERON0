@@ -13,6 +13,26 @@ I'm a full stack developer, though I'm more of a front end developer. I'm most i
     <img style="margin: 5px;" src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square" alt="JavaScript">
     <img style="margin: 5px;" src="https://img.shields.io/badge/C++-Beginning-white?style=flat-square" alt="C++">
 </div>
+<!--
+### Projects
+Here are some of my notable projects:
+- **[Project Name](#)**: Brief description of the project. Add a screenshot or GIF if possible.
+- **[Another Project](#)**: Brief description of another project. Include links to demos or repositories.
+### Contributions
+I have contributed to the following open-source projects:
+- **[Open-Source Project](#)**: Description of your contribution.
+- **[Another Contribution](#)**: Description of another contribution.
+--->
+
+<!--
+### Contact
+
+Feel free to reach out to me on:
+
+- [LinkedIn](#)
+- [Email](#)
+--->
+
 
 Also, I can be too much of a perfectionist. Glad to meet you ✨
 
@@ -21,6 +41,7 @@ Also, I can be too much of a perfectionist. Glad to meet you ✨
   <img src="https://github.com/user-attachments/assets/c9e1f0b3-a99d-45a6-8c5e-5aa77cbfaff7" width="350" height="250" />
   <img src="https://github.com/user-attachments/assets/aecb432f-7683-40af-9133-26733c379b63" width="250" height="250" />
 </p>
+
 <!---
 XZERON0/XZERON0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
