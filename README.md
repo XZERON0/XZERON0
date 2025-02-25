@@ -56,10 +56,6 @@ You can click the Preview link to take a look at your changes.
 - 🌎 Working on a new flutter project
 - 👨🏻‍💻 learning how to make models in blender
 
-### 🎭 Fun Fact
-- I spend more time fixing bugs than writing code 🐞
-
-
 # Other
 _And if you see my activity is so low, its because i have a private rep_ 🫣👨🏻‍💻
 <p align="center">
