@@ -15,8 +15,8 @@ jobs:
           curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
                -H "Accept: application/vnd.github.v3+json" \
                https://api.github.com/user/repos?per_page=100 | \
-               jq '[.[] | {private: .private}] | group_by(.private) | map({(if .[0].private then "private" else "public" end): length}) | add' \
-               > repo_count.json
+          jq '[.[] | {private: .private}] | group_by(.private) | map({"private": (map(select(.private == true)) | length), "public": (map(select(.private == false)) | length)})[0]' \
+          > repo_count.json
           cat repo_count.json | jq -r '"🌌 Public Repositories: \(.public)\n🛡️ Private Repositories: \(.private)"' > README.md
       - name: Commit and Push
         run: |
