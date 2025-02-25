@@ -2,6 +2,7 @@
 ---
 
 I'm a full stack developer, though I'm more of a front end developer. I'm most interested in game dev 🎮, and my favorite framework is Django (Python) 🐍
+I also like flutter and spring, so I realized and plan on these frameworks different cool ideas 💡
 
 ### Languages and Skill Levels
 
