@@ -1,0 +1,27 @@
+name: Update Repo Count
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Обновление раз в день
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Update README
+        run: |
+          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3+json" \
+               https://api.github.com/user/repos?per_page=100 | \
+               jq '[.[] | {private: .private}] | group_by(.private) | map({(if .[0].private then "private" else "public" end): length}) | add' \
+               > repo_count.json
+          cat repo_count.json | jq -r '"🌌 Public Repositories: \(.public)\n🛡️ Private Repositories: \(.private)"' > README.md
+      - name: Commit and Push
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Updated repo count" || exit 0
+          git push
