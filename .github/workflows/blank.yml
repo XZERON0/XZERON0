@@ -12,12 +12,11 @@ jobs:
       - uses: actions/checkout@v2
       - name: Update README
         run: |
-          curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
-               -H "Accept: application/vnd.github.v3+json" \
-               https://api.github.com/user/repos?per_page=100 | \
-          jq '[.[] | {private: .private}] | group_by(.private) | map({"private": (map(select(.private == true)) | length), "public": (map(select(.private == false)) | length)})[0]' \
-          > repo_count.json
-          cat repo_count.json | jq -r '"🌌 Public Repositories: \(.public)\n🛡️ Private Repositories: \(.private)"' > README.md
+    curl -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" \
+         -H "Accept: application/vnd.github.v3+json" \
+         https://api.github.com/user/repos?per_page=100 | \
+    jq -r '[.[] | {private: .private}] | group_by(.private) | map({"private": (map(select(.private == true)) | length), "public": (map(select(.private == false)) | length)})[0] | "🌌 Public Repositories: \(.public)\n🛡️ Private Repositories: \(.private)"' \
+    > README.md
       - name: Commit and Push
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
