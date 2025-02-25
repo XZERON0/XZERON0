@@ -4,6 +4,10 @@
 I'm a full stack developer, though I'm more of a front end developer. I'm most interested in game dev 🎮, and my favorite framework is Django (Python) 🐍
 I also like flutter and spring, so I realized and plan on these frameworks different cool ideas 💡
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
+
 ### Languages and Skill Levels
 
 <div style="padding: 10px; border: 2px solid black; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
@@ -39,7 +43,6 @@ Also, I can be too much of a perfectionist. Glad to meet you ✨
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/82d38a27-8929-4e6e-ac7a-463c5ea3d275" width="250" height="250" />
-  <img src="https://github.com/user-attachments/assets/c9e1f0b3-a99d-45a6-8c5e-5aa77cbfaff7" width="350" height="250" />
   <img src="https://github.com/user-attachments/assets/aecb432f-7683-40af-9133-26733c379b63" width="250" height="250" />
 </p>
 
@@ -47,6 +50,15 @@ Also, I can be too much of a perfectionist. Glad to meet you ✨
 XZERON0/XZERON0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+### 🎯 Currently Working On
+- 🚀 Improving my game dev skills
+- 🌎 Working on a new flutter project
+- 👨🏻‍💻 learning how to make models in blender
+
+### 🎭 Fun Fact
+- I spend more time fixing bugs than writing code 🐞
+
 
 # Other
 _And if you see my activity is so low, its because i have a private rep_ 🫣👨🏻‍💻
