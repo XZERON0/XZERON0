@@ -8,8 +8,8 @@ I also like flutter and spring, so I realized and plan on these frameworks diffe
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
-### Languages and Skill Levels
 
+### Languages and Skill Levels
 <div style="padding: 10px; border: 2px solid black; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
     <img style="margin: 5px;" src="https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square" alt="Python">
     <img style="margin: 5px;" src="https://img.shields.io/badge/C%23-Basic-green?style=flat-square" alt="C#">
@@ -18,6 +18,12 @@ I also like flutter and spring, so I realized and plan on these frameworks diffe
     <img style="margin: 5px;" src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square" alt="JavaScript">
     <img style="margin: 5px;" src="https://img.shields.io/badge/C++-Beginning-white?style=flat-square" alt="C++">
 </div>
+
+### 🔧 Technologies & Tools
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring)
+
 <!--
 ### Projects
 Here are some of my notable projects:
@@ -55,6 +61,9 @@ You can click the Preview link to take a look at your changes.
 - 🚀 Improving my game dev skills
 - 🌎 Working on a new flutter project
 - 👨🏻‍💻 learning how to make models in blender
+
+### 🎭 Fun Fact
+- I spend more time fixing bugs than writing code 🐞
 
 # Other
 _And if you see my activity is so low, its because i have a private rep_ 🫣👨🏻‍💻
