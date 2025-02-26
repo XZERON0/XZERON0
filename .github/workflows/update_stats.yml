@@ -14,7 +14,7 @@ jobs:
 
       - name: Get Repository Stats
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           curl -s -H "Authorization: token $PAT_TOKEN" https://api.github.com/user/repos?per_page=100 |
           jq '[.[] | {name: .name, private: .private}]' > repos.json
