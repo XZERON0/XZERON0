@@ -16,11 +16,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
-          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/user/repos?per_page=100 |
-          jq '[.[] | {name: .name, private: .private}]' > repos.json
+          curl -s -H "Authorization: token ${{ secrets.GITHUB_TOKEN }}" https://api.github.com/user/repos?per_page=100 | jq '.' > output.json
+          cat output.json
+          jq '[.[] | {name: .name, private: .private}]' output.json > repos.json
           PUBLIC_REPOS=$(jq '[.[] | select(.private == false)] | length' repos.json)
           PRIVATE_REPOS=$(jq '[.[] | select(.private == true)] | length' repos.json)
-
           echo "Public: $PUBLIC_REPOS, Private: $PRIVATE_REPOS"
           
           echo "<p align='center'>" > stats.md
