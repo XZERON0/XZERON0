@@ -24,6 +24,7 @@ I also like flutter and spring, so I realized and plan on these frameworks diffe
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring)
 
+
 <!--
 ### Projects
 Here are some of my notable projects:
@@ -61,6 +62,16 @@ You can click the Preview link to take a look at your changes.
 - 🚀 Improving my game dev skills
 - 🌎 Working on a new flutter project
 - 👨🏻‍💻 learning how to make models in blender
+
+🌌 **Repositories**  
+| Type  | Count |
+|-------|-------|
+| 🌍 Public | 1 |
+| 🔐 Private | 10 |
+
+### My stats
+![XZERON0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=XZERON0&show_icons=true&theme=tokyonight)
+
 
 ### 🎭 Fun Fact
 - I spend more time fixing bugs than writing code 🐞
