@@ -11,12 +11,13 @@ I also like flutter and spring, so I realized and plan on these frameworks diffe
 
 ### Languages and Skill Levels
 <div style="padding: 10px; border: 2px solid black; border-radius: 5px; background-color: #f9f9f9; text-align: center;">
-    <img style="margin: 5px;" src="https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square" alt="Python">
-    <img style="margin: 5px;" src="https://img.shields.io/badge/C%23-Basic-green?style=flat-square" alt="C#">
-    <img style="margin: 5px;" src="https://img.shields.io/badge/Dart-Advanced-yellow?style=flat-square" alt="Dart">
-    <img style="margin: 5px;" src="https://img.shields.io/badge/Java-Advanced-yellow?style=flat-square" alt="Java">
-    <img style="margin: 5px;" src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square" alt="JavaScript">
-    <img style="margin: 5px;" src="https://img.shields.io/badge/C++-Beginning-white?style=flat-square" alt="C++">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Python-Advanced-yellow?style=flat-square&logo=python" alt="Python">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/C%23-Basic-green?style=flat-square&logo=c#" alt="C#">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Dart-Advanced-yellow?style=flat-square&logo=Dart" alt="Dart">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/Java-Advanced-yellow?style=flat-square&logo=Java" alt="Java">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/JavaScript-Advanced-yellow?style=flat-square&logo=Javascript" alt="JavaScript">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/C++-Beginning-white?style=flat-square&logo=C++" alt="C++">
+    <img style="margin: 5px;" src="https://img.shields.io/badge/GO-Beginnig-white?style=flat-square&logo=GO" alt="GO">
 </div>
 
 ### 🔧 Technologies & Tools
