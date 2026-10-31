@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://YOUR-SITE.vercel.app"><img src="https://img.shields.io/badge/open_my_site-f2220e?style=for-the-badge&logoColor=white" alt="Live site"/></a>
+<a href="https://xzeron0-website.vercel.app/"><img src="https://img.shields.io/badge/open_my_site-f2220e?style=for-the-badge&logoColor=white" alt="Live site"/></a>
 <a href="https://github.com/XZERON0?tab=followers"><img src="https://img.shields.io/github/followers/XZERON0?label=followers&style=for-the-badge&color=8f0d08&labelColor=1d070b" alt="Followers"/></a>
 <img src="https://komarev.com/ghpvc/?username=XZERON0&label=views&color=c9150a&labelColor=1d070b&style=for-the-badge" alt="Views"/>
 
@@ -65,8 +65,8 @@ const zerox = {
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-1d070b?style=for-the-badge&logo=telegram&logoColor=ff5a3c)](https://t.me/YOUR_NICK)
-[![Email](https://img.shields.io/badge/Email-1d070b?style=for-the-badge&logo=gmail&logoColor=ff5a3c)](mailto:you@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-1d070b?style=for-the-badge&logo=telegram&logoColor=ff5a3c)](https://t.me/@ZER0No)
+[![Email](https://img.shields.io/badge/Email-1d070b?style=for-the-badge&logo=gmail&logoColor=ff5a3c)](mailto:zerox8work@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f2220e,100:0d0305&height=110&section=footer" width="100%" alt=""/>
 
